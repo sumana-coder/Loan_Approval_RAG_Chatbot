@@ -8,6 +8,6 @@ This is an AI-powered chatbot that uses Retrieval-Augmented Generation (RAG) to 
 🖥️ Interactive Streamlit frontend
 
 
-## 📦 Tech Stack Streamlit FAISS SentenceTransformers OpenAI / Hugging Face Transformers Pandas / NumPy
+📦 Tech Stack Streamlit FAISS SentenceTransformers OpenAI / Hugging Face Transformers Pandas / NumPy
 
 
